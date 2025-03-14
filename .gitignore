@@ -1,0 +1,16 @@
+# executables 
+clap
+nob
+nob.old
+
+# vim swap files
+*.swp
+
+# vim swo files
+*.swo
+
+# Emacs
+*~                    # Backup files
+.#*                   # Auto-save files
+\#*                   # Auto-save files
+
