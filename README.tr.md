@@ -1,4 +1,4 @@
-# CLAPC
+# clapc
 
 C dili için bir argüman ayrıştırıcısı
 
