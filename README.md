@@ -1,4 +1,4 @@
-# CLAPC
+# clapc
 
 🇹🇷 [Türkçe](README.tr.md) 
 
